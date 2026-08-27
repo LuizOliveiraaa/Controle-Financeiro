@@ -6,3 +6,8 @@ PyJWT==2.8.0
 passlib[bcrypt]==1.7.4
 psycopg2-binary==2.9.7
 Flask-Cors==3.0.10
+marshmallow==3.19.0
+alembic==1.11.1
+pytest==7.4.0
+pytest-flask==1.4.0
+gunicorn==20.1.0
